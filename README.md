@@ -4,7 +4,7 @@
 
 ## EZPZ
 ```
-clone http://5120445b16a7:6610/BREAD.GG
+git clone http://5120445b16a7:6610/BREAD.GG
 cd BREAD.GG
 ./main.sh
  ```
