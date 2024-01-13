@@ -1,6 +1,6 @@
-# CybriaGG
+# BREAD.GG
 
-🎮 CybriaGG is a proxied version of Now.GG Roblox, this proxy is not Ultraviolet and runs on Caddy, a reverse proxy service. This is to test around to try and access Now.GG and other websites without using Ultraviolet
+🎮 BREAD.GG is a proxied version of Now.GG Roblox, this proxy is not Ultraviolet and runs on Caddy, a reverse proxy service. This is to test around to try and access Now.GG and other websites without using Ultraviolet
 
 ## EZPZ
 ```
