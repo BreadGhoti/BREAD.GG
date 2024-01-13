@@ -5,7 +5,7 @@
 ## EZPZ
 ```
 git clone https://app.buddy.works/breadghoti/bread-gg
-cd BREAD.GG
+cd BREAD-GG
 ./main.sh
  ```
 ### None
