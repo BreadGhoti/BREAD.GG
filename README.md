@@ -4,7 +4,7 @@
 
 ## EZPZ
 ```
-git clone http://5120445b16a7:6610/BREAD.GG
+git clone https://app.buddy.works/breadghoti/bread-gg
 cd BREAD.GG
 ./main.sh
  ```
