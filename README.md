@@ -6,7 +6,7 @@
 ```
 git clone https://5d9f4fe9-72a4-4a69-ae4f-dd339c2d2edc@app.buddy.works/breadghoti/bread-gg
 cd bread-gg
-./main.sh
+bash main.sh
  ```
 ### None
 
